@@ -1,0 +1,101 @@
+.personalinfo {
+    /* background-image: url("./../img/img-personalinfo.png"); */
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+  }
+
+  .inputtext {
+    background-color: #f4f4f4;
+    border: none;
+    width: 300px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+
+  .inputnamepos {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+  }
+
+  .connecttxt {
+    position: absolute;
+    top: 47%;
+    left: 43%;
+    font-weight: bold;
+    color: #7d8588
+  }
+
+  .buttonprod {
+    background-color: #5c3e3c;
+    border: none;
+    width: 300px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+  }
+
+  .buttonaccess {
+    background-color: white;
+    border-color: #5c3e3c;
+    border-width: 1px;
+    width: 300px;
+    height: 50px;
+    color: #7d8588;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+
+  .buttonpos {
+    position: absolute;
+    top: 55%;
+    left: 30%;
+  }
+
+  .prodcardpos {
+    position: absolute;
+    top: 68%;
+    left: 30%;
+  }
+
+  .checkbox {
+    position: absolute;
+    bottom: 5%;
+    left: 30%;
+  }
+
+  .backbutton {
+    background-image: url("./../img/btn-ico-back.png");
+    display: inline-block;
+    width: 159px;
+    height: 60px;
+  }
+
+  .nextbutton {
+    background-image: url("./../img/btn-ico-next.png");
+    display: inline-block;
+    margin-left: 20px;
+    width: 159px;
+    height: 60px;
+  }
+
+  .nextbackbtnpos {
+    position: absolute;
+    bottom: 3%;
+    right: 5%;
+  }
+
+  .personalinfotitle {
+    width: 592px;
+    height: 79px;
+    margin-top: 30px;
+  }

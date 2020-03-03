@@ -1,0 +1,27 @@
+.drinkselection {
+    /* background-image: url("./../img/img-drinkselection.png"); */
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+  }
+  
+  .drinkbutton {
+    width: 250px;
+    height: 98px;
+    border-radius: 5px;
+    margin-top: 30px;
+  }
+
+  .selectionpos {
+      top: 45%;
+      left: 8%;
+      position: absolute;
+  }
+
+  .drinkselectiontitle {
+    width: 382px;
+    height: 79px;
+    margin-top: 30px;
+  }

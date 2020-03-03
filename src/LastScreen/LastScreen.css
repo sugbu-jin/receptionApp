@@ -1,0 +1,17 @@
+.lastscreen {
+    background-image: url("./../img/img-lastscreen.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+  }
+  
+  .backtohomebutton {
+    background-image: url("./../img/btn-ico-backtohome.png");
+    position: absolute;
+    top: 80%;
+    left:40%;
+    width: 217px;
+    height: 60px;
+  }

@@ -1,0 +1,23 @@
+.rating {
+    background-image: url('./../img/img-rating.png');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+
+.ratepos {
+    position: absolute;
+    top: 60%;
+    left: 32%;
+}
+
+.submitbutton {
+    background-image: url(./../img/btn-ico-submit.png);
+    position: absolute;
+    width: 159px;
+    height: 60px;
+    bottom: 10%;
+    left: 46%;
+}
